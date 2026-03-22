@@ -136,6 +136,12 @@ body {
     color: #111;
 }
 
+.download-button.tertiary {
+    background-color: transparent;
+    border: 1px solid #cdcbc2;
+    color: #333;
+}
+
 
 .page-label {
     position: fixed;
